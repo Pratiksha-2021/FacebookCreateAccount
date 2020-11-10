@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21233" started-at="2020-11-10T16:20:42Z" finished-at="2020-11-10T16:21:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21233" started-at="2020-11-10T16:20:42Z" finished-at="2020-11-10T16:21:03Z">
+      <class name="com.scripts.FacebookCreateAccountTest">
+        <test-method status="PASS" signature="initialiseWebEnvironment()[pri:0, instance:com.scripts.FacebookCreateAccountTest@1baeedf]" name="initialiseWebEnvironment" is-config="true" duration-ms="15108" started-at="2020-11-10T21:50:42Z" finished-at="2020-11-10T21:50:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialiseWebEnvironment -->
+        <test-method status="PASS" signature="TC_ID_01_CreateFacebookAccount()[pri:0, instance:com.scripts.FacebookCreateAccountTest@1baeedf]" name="TC_ID_01_CreateFacebookAccount" duration-ms="6096" started-at="2020-11-10T21:50:57Z" finished-at="2020-11-10T21:51:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_ID_01_CreateFacebookAccount -->
+      </class> <!-- com.scripts.FacebookCreateAccountTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
